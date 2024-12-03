@@ -1,6 +1,3 @@
-# milvus-s390x-porting
-Sangam-Idea: https://github.ibm.com/isdl/sangam/issues/951
-
 ### WatsonX on X86 supports Milvus.
 https://milvus.io
 https://github.com/milvus-io/milvus
